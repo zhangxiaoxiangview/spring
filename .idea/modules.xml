@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/castford.iml" filepath="$PROJECT_DIR$/castford.iml" />
+      <module fileurl="file://$PROJECT_DIR$/castford-libs/castford-libs.iml" filepath="$PROJECT_DIR$/castford-libs/castford-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/castford-utils/castford-utils.iml" filepath="$PROJECT_DIR$/castford-utils/castford-utils.iml" />
+    </modules>
+  </component>
+</project>
